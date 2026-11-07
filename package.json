@@ -1,0 +1,13 @@
+{
+  "name": "react-useactionstate-bind-hang",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "repro": "node run.js"
+  },
+  "dependencies": {
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "react-server-dom-webpack": "19.3.1"
+  }
+}
